@@ -1,0 +1,6 @@
+[submodule "finhelper_backend"]
+	path = finhelper_backend
+	url = https://github.com/evgenemit/finhelper_backend.git
+[submodule "finhelper_bot"]
+	path = finhelper_bot
+	url = https://github.com/evgenemit/finhelper_bot.git
